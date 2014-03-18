@@ -17,7 +17,7 @@
 @synthesize myDatabase;
 
 /*
- * Make it singeltone
+ * Make it singeltone - getInstance
  */
 
 +(Model *)getInstance{

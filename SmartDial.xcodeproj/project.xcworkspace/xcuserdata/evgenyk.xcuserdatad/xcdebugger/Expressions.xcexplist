@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SequenceViewController alertView:clickedButtonAtIndex:]:SequenceViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sequenceDictionary">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[StudentsViewController prepareForSegue:sender:]:StudentsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "myIndexPath">
+            </PersistentString>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SequenceViewController tableView:didSelectRowAtIndexPath:]:SequenceViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sequenceArray">
+            </PersistentString>
+            <PersistentString
+               value = "self.sequenceHelperArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SequenceViewController tableView:numberOfRowsInSection:]:SequenceViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sequence">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TemplatesViewController prepareForSegue:sender:]:TemplatesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+            <PersistentString
+               value = "curTemplate.SequenceHelper">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewContactViewController prepareForSegue:sender:]:NewContactViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[NewStudentViewController prepareForSegue:sender:]:NewStudentViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactsViewController prepareForSegue:sender:]:ContactsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "segue.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[StudentsViewController viewDidLoad]:StudentsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "students">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

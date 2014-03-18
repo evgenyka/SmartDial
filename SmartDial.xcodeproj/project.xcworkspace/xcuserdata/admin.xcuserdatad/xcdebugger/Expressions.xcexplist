@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__66-[TemplatesViewController tableView:cellForRowAtIndexPath:object:]_block_invoke:TemplatesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.imageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactsViewController tableView:cellForRowAtIndexPath:]:ContactsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "contact.Name">
+            </PersistentString>
+            <PersistentString
+               value = "contact.Image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Model addContact:]:Model.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "contact.Image">
+            </PersistentString>
+            <PersistentString
+               value = "imageData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TemplatesViewController tableView:cellForRowAtIndexPath:object:]:TemplatesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.imageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactViewController viewDidLoad]:ContactViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.contact.Image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TemplatesViewController prepareForSegue:sender:]:TemplatesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sequenceController.sequenceImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__50-[TemplatesViewController prepareForSegue:sender:]_block_invoke:TemplatesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sequenceController.sequenceImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TemplatesViewController viewDidAppear:]:TemplatesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ContactsViewController prepareForSegue:sender:]:ContactsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.searchDisplayController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
